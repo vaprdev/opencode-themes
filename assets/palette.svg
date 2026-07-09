@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Poimandres color palette</title>
+  <desc id="description">The primary background, text, blue, cyan, mint, red, pink, and yellow colors used by the theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#1b1e28"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#e4f0fb" font-size="22" font-weight="700">POIMANDRES PALETTE</text>
+    <text x="42" y="82" fill="#767c9d" font-size="14">semantic color roles used by the OpenCode theme</text>
+
+    <g transform="translate(42 116)">
+      <rect width="126" height="126" rx="10" fill="#303340"/>
+      <text x="0" y="151" fill="#a6accd" font-size="13">SURFACE</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#303340</text>
+    </g>
+    <g transform="translate(184 116)">
+      <rect width="126" height="126" rx="10" fill="#a6accd"/>
+      <text x="0" y="151" fill="#a6accd" font-size="13">TEXT</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#a6accd</text>
+    </g>
+    <g transform="translate(326 116)">
+      <rect width="126" height="126" rx="10" fill="#ADD7FF"/>
+      <text x="0" y="151" fill="#ADD7FF" font-size="13">PRIMARY</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#ADD7FF</text>
+    </g>
+    <g transform="translate(468 116)">
+      <rect width="126" height="126" rx="10" fill="#89ddff"/>
+      <text x="0" y="151" fill="#89ddff" font-size="13">INFO</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#89ddff</text>
+    </g>
+    <g transform="translate(610 116)">
+      <rect width="126" height="126" rx="10" fill="#5DE4c7"/>
+      <text x="0" y="151" fill="#5DE4c7" font-size="13">SUCCESS</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#5DE4c7</text>
+    </g>
+    <g transform="translate(752 116)">
+      <rect width="126" height="126" rx="10" fill="#d0679d"/>
+      <text x="0" y="151" fill="#d0679d" font-size="13">ERROR</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#d0679d</text>
+    </g>
+    <g transform="translate(894 116)">
+      <rect width="126" height="126" rx="10" fill="#f087bd"/>
+      <text x="0" y="151" fill="#f087bd" font-size="13">ACCENT</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#f087bd</text>
+    </g>
+    <g transform="translate(1036 116)">
+      <rect width="122" height="126" rx="10" fill="#fffac2"/>
+      <text x="0" y="151" fill="#fffac2" font-size="13">WARNING</text>
+      <text x="0" y="172" fill="#767c9d" font-size="12">#fffac2</text>
+    </g>
+  </g>
+</svg>
