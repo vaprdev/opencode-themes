@@ -4,7 +4,7 @@ An unofficial [Poimandres](https://github.com/drcmda/poimandres-theme)
 theme for OpenCode, using the original palette across the TUI, Markdown,
 syntax highlighting, and diffs.
 
-![Poimandres theme preview](assets/preview.svg)
+![Poimandres theme showcase](assets/poimandres-showcase.png)
 
 ## Palette
 
