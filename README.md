@@ -1,57 +1,30 @@
-# Themes for OpenCode
+# OpenCode Themes
 
-Themes for OpenCode covering the TUI, Markdown, syntax highlighting, and diffs.
+An independent collection of community themes for the OpenCode terminal user
+interface, Markdown, syntax highlighting, and diffs.
 
-## Poimandres
+> This project is not affiliated with, endorsed by, or sponsored by OpenCode
+> or its maintainers. Theme names, logos, and other marks belong to their
+> respective owners.
 
-An unofficial port of the
-[Poimandres](https://github.com/drcmda/poimandres-theme) palette.
+## Themes
 
-![Poimandres theme showcase](assets/poimandres-showcase.png)
+| Theme | Description |
+| --- | --- |
+| [Fieldline](themes/fieldline/) | Dark scientific instruments in oxblood, turquoise, lime, violet, amber, copper, and red. |
+| [Poimandres](themes/poimandres/) | An unofficial port of the Poimandres palette. |
 
-### Palette
+Each theme directory is self-contained and includes installation instructions,
+its palette and showcase assets, license information, and any required
+attribution.
 
-![Poimandres palette](assets/palette.svg)
+## Add A Theme
 
-## Fieldline
-
-A dark scientific-instrument theme with turquoise displays, lime controls,
-violet indicators, amber readouts, copper panels, and red warning lights.
-
-![Fieldline theme showcase](assets/fieldline-showcase.png)
-
-### Palette
-
-![Fieldline palette](assets/fieldline-palette.svg)
-
-## Install
-
-```sh
-mkdir -p ~/.config/opencode/themes
-curl -fsSL \
-  https://raw.githubusercontent.com/vaprdev/opencode-poimandres-theme/main/themes/poimandres.json \
-  -o ~/.config/opencode/themes/poimandres.json
-
-curl -fsSL \
-  https://raw.githubusercontent.com/vaprdev/opencode-poimandres-theme/main/themes/fieldline.json \
-  -o ~/.config/opencode/themes/fieldline.json
-```
-
-Open OpenCode and run `/theme`, then select `poimandres` or `fieldline`.
-
-The same theme file works with OpenCode 1 and the OpenCode 2 preview.
-
-## Update
-
-Run the installation command again to download the latest version.
-
-## Credits
-
-The palette is based on
-[Poimandres](https://github.com/drcmda/poimandres-theme) by drcmda. This is an
-unofficial port and is not affiliated with or endorsed by the original
-project.
+Create `themes/<theme-name>/` with a `theme.json`, `README.md`, and a `LICENSE`
+file when its license differs from the repository MIT license. Keep theme-specific
+screenshots, palette artwork, and attribution in that directory.
 
 ## License
 
-[MIT](LICENSE)
+Unless a theme directory states otherwise, this repository is licensed under
+the [MIT License](LICENSE).
