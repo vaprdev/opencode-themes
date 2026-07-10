@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Fieldline color palette</title>
+  <desc id="description">The oxblood, copper, turquoise, green, violet, amber, and red colors used by the theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#160501"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#FDF0AC" font-size="22" font-weight="700">FIELDLINE PALETTE</text>
+    <text x="42" y="82" fill="#806A63" font-size="14">retro scientific instruments in oxblood and spectral color</text>
+
+    <g transform="translate(42 116)">
+      <rect width="126" height="126" rx="10" fill="#4C1E11"/>
+      <text x="0" y="151" fill="#D7C2A7" font-size="13">SURFACE</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#4C1E11</text>
+    </g>
+    <g transform="translate(184 116)">
+      <rect width="126" height="126" rx="10" fill="#D7C2A7"/>
+      <text x="0" y="151" fill="#D7C2A7" font-size="13">TEXT</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#D7C2A7</text>
+    </g>
+    <g transform="translate(326 116)">
+      <rect width="126" height="126" rx="10" fill="#2FB8B9"/>
+      <text x="0" y="151" fill="#2FB8B9" font-size="13">PRIMARY</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#2FB8B9</text>
+    </g>
+    <g transform="translate(468 116)">
+      <rect width="126" height="126" rx="10" fill="#72B447"/>
+      <text x="0" y="151" fill="#72B447" font-size="13">SUCCESS</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#72B447</text>
+    </g>
+    <g transform="translate(610 116)">
+      <rect width="126" height="126" rx="10" fill="#B65DB8"/>
+      <text x="0" y="151" fill="#B65DB8" font-size="13">ACCENT</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#B65DB8</text>
+    </g>
+    <g transform="translate(752 116)">
+      <rect width="126" height="126" rx="10" fill="#E64B4F"/>
+      <text x="0" y="151" fill="#E64B4F" font-size="13">ERROR</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#E64B4F</text>
+    </g>
+    <g transform="translate(894 116)">
+      <rect width="126" height="126" rx="10" fill="#C97A4E"/>
+      <text x="0" y="151" fill="#C97A4E" font-size="13">COPPER</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#C97A4E</text>
+    </g>
+    <g transform="translate(1036 116)">
+      <rect width="122" height="126" rx="10" fill="#EEB963"/>
+      <text x="0" y="151" fill="#EEB963" font-size="13">WARNING</text>
+      <text x="0" y="172" fill="#806A63" font-size="12">#EEB963</text>
+    </g>
+  </g>
+</svg>
