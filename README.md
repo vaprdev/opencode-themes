@@ -19,10 +19,6 @@ Each theme directory is self-contained and includes installation instructions,
 its palette and showcase assets, license information, and any required
 attribution.
 
-### Matchalk
-
-[![Matchalk theme in OpenCode](themes/matchalk/showcase.png)](themes/matchalk/)
-
 ## Add A Theme
 
 Create `themes/<theme-name>/` with a `theme.json`, `README.md`, and a `LICENSE`
