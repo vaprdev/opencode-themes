@@ -19,11 +19,32 @@ Each theme directory is self-contained and includes installation instructions,
 its palette and showcase assets, license information, and any required
 attribution.
 
+## Gallery
+
+### Fieldline
+
+[![Fieldline theme in OpenCode](themes/fieldline/showcase.png)](themes/fieldline/)
+
+### Matchalk
+
+[![Matchalk theme in OpenCode](themes/matchalk/showcase.png)](themes/matchalk/)
+
+### Poimandres
+
+[![Poimandres theme in OpenCode](themes/poimandres/showcase.png)](themes/poimandres/)
+
 ## Add A Theme
 
-Create `themes/<theme-name>/` with a `theme.json`, `README.md`, and a `LICENSE`
-file when its license differs from the repository MIT license. Keep theme-specific
-screenshots, palette artwork, and attribution in that directory.
+Create `themes/<theme-name>/` with:
+
+- `theme.json`
+- `README.md` with installation instructions
+- `showcase.png` demonstrating the theme in OpenCode
+- `LICENSE` when its license differs from the repository MIT license
+
+Keep theme-specific screenshots, palette artwork, and attribution in that
+directory. Add every new theme to both the table and gallery above, linking its
+gallery image to the theme directory.
 
 ## License
 
