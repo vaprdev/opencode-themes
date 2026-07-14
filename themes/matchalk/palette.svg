@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Matchalk color palette</title>
+  <desc id="description">The background, surface, text, green, tan, pink, purple, and blue colors used by the OpenCode theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#1C2427"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#D1DED3" font-size="22" font-weight="700">MATCHALK PALETTE</text>
+    <text x="42" y="82" fill="#9AAEA7" font-size="14">earthy semantic color roles used by the OpenCode theme</text>
+
+    <g transform="translate(42 116)">
+      <rect width="126" height="126" rx="10" fill="#273136" stroke="#323E45"/>
+      <text x="0" y="151" fill="#D1DED3" font-size="13">SURFACE</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#273136</text>
+    </g>
+    <g transform="translate(184 116)">
+      <rect width="126" height="126" rx="10" fill="#D1DED3"/>
+      <text x="0" y="151" fill="#D1DED3" font-size="13">TEXT</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#D1DED3</text>
+    </g>
+    <g transform="translate(326 116)">
+      <rect width="126" height="126" rx="10" fill="#7EB08A"/>
+      <text x="0" y="151" fill="#7EB08A" font-size="13">PRIMARY</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#7EB08A</text>
+    </g>
+    <g transform="translate(468 116)">
+      <rect width="126" height="126" rx="10" fill="#D2B48C"/>
+      <text x="0" y="151" fill="#D2B48C" font-size="13">SECONDARY</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#D2B48C</text>
+    </g>
+    <g transform="translate(610 116)">
+      <rect width="126" height="126" rx="10" fill="#FF819F"/>
+      <text x="0" y="151" fill="#FF819F" font-size="13">ACCENT</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#FF819F</text>
+    </g>
+    <g transform="translate(752 116)">
+      <rect width="126" height="126" rx="10" fill="#BA8EAF"/>
+      <text x="0" y="151" fill="#BA8EAF" font-size="13">PURPLE</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#BA8EAF</text>
+    </g>
+    <g transform="translate(894 116)">
+      <rect width="126" height="126" rx="10" fill="#7EA4B0"/>
+      <text x="0" y="151" fill="#7EA4B0" font-size="13">SYNTAX</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#7EA4B0</text>
+    </g>
+    <g transform="translate(1036 116)">
+      <rect width="122" height="126" rx="10" fill="#8A7EB0"/>
+      <text x="0" y="151" fill="#8A7EB0" font-size="13">VIOLET</text>
+      <text x="0" y="172" fill="#9AAEA7" font-size="12">#8A7EB0</text>
+    </g>
+  </g>
+</svg>

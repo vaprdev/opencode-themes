@@ -12,11 +12,16 @@ interface, Markdown, syntax highlighting, and diffs.
 | Theme | Description |
 | --- | --- |
 | [Fieldline](themes/fieldline/) | Dark scientific instruments in oxblood, turquoise, lime, violet, amber, copper, and red. |
+| [Matchalk](themes/matchalk/) | An unofficial port of Matchalk's dark, earthy palette. |
 | [Poimandres](themes/poimandres/) | An unofficial port of the Poimandres palette. |
 
 Each theme directory is self-contained and includes installation instructions,
 its palette and showcase assets, license information, and any required
 attribution.
+
+### Matchalk
+
+[![Matchalk theme in OpenCode](themes/matchalk/showcase.png)](themes/matchalk/)
 
 ## Add A Theme
 
