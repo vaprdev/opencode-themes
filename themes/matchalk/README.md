@@ -4,7 +4,8 @@ An unofficial OpenCode port of
 [Matchalk](https://github.com/lucafalasco/matchalk), Luca Falasco's dark,
 earthy VS Code theme.
 
-![Matchalk theme showcase](showcase.png)
+<img width="891" height="991" alt="Screenshot 2026-07-14 at 3 27 20 PM" src="https://github.com/user-attachments/assets/3c33a1d4-1012-4c12-bc8f-b7d137b7043b" />
+
 
 ## Palette
 
