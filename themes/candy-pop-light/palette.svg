@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Candy Pop Light color palette</title>
+  <desc id="description">The soft pink, rose, cyan, green, yellow, and red colors used by the light theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#fdf2f8"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#831843" font-size="22" font-weight="700">CANDY POP LIGHT PALETTE</text>
+    <text x="42" y="82" fill="#be185d" font-size="14">saturated rose and cyan on soft pink surfaces</text>
+    <g transform="translate(42 116)"><rect width="126" height="126" rx="10" fill="#fbcfe8"/><text x="0" y="151" fill="#9d174d" font-size="13">SURFACE</text><text x="0" y="172" fill="#be185d" font-size="12">#fbcfe8</text></g>
+    <g transform="translate(184 116)"><rect width="126" height="126" rx="10" fill="#831843"/><text x="0" y="151" fill="#831843" font-size="13">TEXT</text><text x="0" y="172" fill="#be185d" font-size="12">#831843</text></g>
+    <g transform="translate(326 116)"><rect width="126" height="126" rx="10" fill="#db2777"/><text x="0" y="151" fill="#db2777" font-size="13">PRIMARY</text><text x="0" y="172" fill="#be185d" font-size="12">#db2777</text></g>
+    <g transform="translate(468 116)"><rect width="126" height="126" rx="10" fill="#0891b2"/><text x="0" y="151" fill="#0891b2" font-size="13">SECONDARY</text><text x="0" y="172" fill="#be185d" font-size="12">#0891b2</text></g>
+    <g transform="translate(610 116)"><rect width="126" height="126" rx="10" fill="#be185d"/><text x="0" y="151" fill="#be185d" font-size="13">ACCENT</text><text x="0" y="172" fill="#be185d" font-size="12">#be185d</text></g>
+    <g transform="translate(752 116)"><rect width="126" height="126" rx="10" fill="#059669"/><text x="0" y="151" fill="#059669" font-size="13">SUCCESS</text><text x="0" y="172" fill="#be185d" font-size="12">#059669</text></g>
+    <g transform="translate(894 116)"><rect width="126" height="126" rx="10" fill="#d97706"/><text x="0" y="151" fill="#d97706" font-size="13">WARNING</text><text x="0" y="172" fill="#be185d" font-size="12">#d97706</text></g>
+    <g transform="translate(1036 116)"><rect width="122" height="126" rx="10" fill="#e11d48"/><text x="0" y="151" fill="#e11d48" font-size="13">ERROR</text><text x="0" y="172" fill="#be185d" font-size="12">#e11d48</text></g>
+  </g>
+</svg>
