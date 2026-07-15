@@ -54,7 +54,8 @@ Create `themes/<theme-name>/` with:
 
 Keep theme-specific screenshots, palette artwork, and attribution in that
 directory. Add every new theme to both the table and gallery above, linking its
-gallery image to the theme directory.
+gallery image to the theme directory. Follow the shared [showcase standard](SHOWCASE.md)
+so screenshots remain directly comparable across themes.
 
 ## License
 
