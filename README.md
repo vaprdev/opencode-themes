@@ -11,6 +11,8 @@ interface, Markdown, syntax highlighting, and diffs.
 
 | Theme | Description |
 | --- | --- |
+| [Candy Pop Dark](themes/candy-pop-dark/) | Candy pink and electric cyan on a deep purple background. |
+| [Candy Pop Light](themes/candy-pop-light/) | Saturated rose and cyan on soft pink surfaces. |
 | [Fieldline](themes/fieldline/) | Dark scientific instruments in oxblood, turquoise, lime, violet, amber, copper, and red. |
 | [Matchalk](themes/matchalk/) | An unofficial port of Matchalk's dark, earthy palette. |
 | [Poimandres](themes/poimandres/) | An unofficial port of the Poimandres palette. |
@@ -20,6 +22,14 @@ its palette and showcase assets, license information, and any required
 attribution.
 
 ## Gallery
+
+### Candy Pop Dark
+
+[![Candy Pop Dark theme in OpenCode](themes/candy-pop-dark/showcase.png)](themes/candy-pop-dark/)
+
+### Candy Pop Light
+
+[![Candy Pop Light theme in OpenCode](themes/candy-pop-light/showcase.png)](themes/candy-pop-light/)
 
 ### Fieldline
 
@@ -44,7 +54,8 @@ Create `themes/<theme-name>/` with:
 
 Keep theme-specific screenshots, palette artwork, and attribution in that
 directory. Add every new theme to both the table and gallery above, linking its
-gallery image to the theme directory.
+gallery image to the theme directory. Follow the shared [showcase standard](SHOWCASE.md)
+so screenshots remain directly comparable across themes.
 
 ## License
 

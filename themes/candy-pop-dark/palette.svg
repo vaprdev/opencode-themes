@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Candy Pop Dark color palette</title>
+  <desc id="description">The purple, pink, cyan, green, yellow, and red colors used by the dark theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#2e1a47"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#ffffff" font-size="22" font-weight="700">CANDY POP DARK PALETTE</text>
+    <text x="42" y="82" fill="#b39ddb" font-size="14">candy pink and electric cyan on deep purple</text>
+    <g transform="translate(42 116)"><rect width="126" height="126" rx="10" fill="#4a2b7a"/><text x="0" y="151" fill="#e0c3fc" font-size="13">SURFACE</text><text x="0" y="172" fill="#b39ddb" font-size="12">#4a2b7a</text></g>
+    <g transform="translate(184 116)"><rect width="126" height="126" rx="10" fill="#ffffff"/><text x="0" y="151" fill="#ffffff" font-size="13">TEXT</text><text x="0" y="172" fill="#b39ddb" font-size="12">#ffffff</text></g>
+    <g transform="translate(326 116)"><rect width="126" height="126" rx="10" fill="#ec4899"/><text x="0" y="151" fill="#ec4899" font-size="13">PRIMARY</text><text x="0" y="172" fill="#b39ddb" font-size="12">#ec4899</text></g>
+    <g transform="translate(468 116)"><rect width="126" height="126" rx="10" fill="#22d3ee"/><text x="0" y="151" fill="#22d3ee" font-size="13">SECONDARY</text><text x="0" y="172" fill="#b39ddb" font-size="12">#22d3ee</text></g>
+    <g transform="translate(610 116)"><rect width="126" height="126" rx="10" fill="#f472b6"/><text x="0" y="151" fill="#f472b6" font-size="13">ACCENT</text><text x="0" y="172" fill="#b39ddb" font-size="12">#f472b6</text></g>
+    <g transform="translate(752 116)"><rect width="126" height="126" rx="10" fill="#34d399"/><text x="0" y="151" fill="#34d399" font-size="13">SUCCESS</text><text x="0" y="172" fill="#b39ddb" font-size="12">#34d399</text></g>
+    <g transform="translate(894 116)"><rect width="126" height="126" rx="10" fill="#facc15"/><text x="0" y="151" fill="#facc15" font-size="13">WARNING</text><text x="0" y="172" fill="#b39ddb" font-size="12">#facc15</text></g>
+    <g transform="translate(1036 116)"><rect width="122" height="126" rx="10" fill="#fb7185"/><text x="0" y="151" fill="#fb7185" font-size="13">ERROR</text><text x="0" y="172" fill="#b39ddb" font-size="12">#fb7185</text></g>
+  </g>
+</svg>
