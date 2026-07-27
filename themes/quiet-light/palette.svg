@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Quiet Light color palette</title>
+  <desc id="description">The soft gray, purple, blue, green, brown, and red colors used by the Quiet Light theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#f5f5f5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#333333" font-size="22" font-weight="700">QUIET LIGHT PALETTE</text>
+    <text x="42" y="82" fill="#777777" font-size="14">restrained color on soft gray surfaces</text>
+    <g transform="translate(42 116)"><rect width="126" height="126" rx="10" fill="#ededf5"/><text x="0" y="151" fill="#333333" font-size="13">SURFACE</text><text x="0" y="172" fill="#777777" font-size="12">#ededf5</text></g>
+    <g transform="translate(184 116)"><rect width="126" height="126" rx="10" fill="#333333"/><text x="0" y="151" fill="#333333" font-size="13">TEXT</text><text x="0" y="172" fill="#777777" font-size="12">#333333</text></g>
+    <g transform="translate(326 116)"><rect width="126" height="126" rx="10" fill="#705697"/><text x="0" y="151" fill="#705697" font-size="13">PRIMARY</text><text x="0" y="172" fill="#777777" font-size="12">#705697</text></g>
+    <g transform="translate(468 116)"><rect width="126" height="126" rx="10" fill="#4b69c6"/><text x="0" y="151" fill="#4b69c6" font-size="13">SECONDARY</text><text x="0" y="172" fill="#777777" font-size="12">#4b69c6</text></g>
+    <g transform="translate(610 116)"><rect width="126" height="126" rx="10" fill="#9769dc"/><text x="0" y="151" fill="#9769dc" font-size="13">ACCENT</text><text x="0" y="172" fill="#777777" font-size="12">#9769dc</text></g>
+    <g transform="translate(752 116)"><rect width="126" height="126" rx="10" fill="#448c27"/><text x="0" y="151" fill="#448c27" font-size="13">SUCCESS</text><text x="0" y="172" fill="#777777" font-size="12">#448c27</text></g>
+    <g transform="translate(894 116)"><rect width="126" height="126" rx="10" fill="#9c5d27"/><text x="0" y="151" fill="#9c5d27" font-size="13">WARNING</text><text x="0" y="172" fill="#777777" font-size="12">#9c5d27</text></g>
+    <g transform="translate(1036 116)"><rect width="122" height="126" rx="10" fill="#c73d20"/><text x="0" y="151" fill="#c73d20" font-size="13">ERROR</text><text x="0" y="172" fill="#777777" font-size="12">#c73d20</text></g>
+  </g>
+</svg>
