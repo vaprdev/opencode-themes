@@ -11,6 +11,7 @@ interface, Markdown, syntax highlighting, and diffs.
 
 | Theme | Description |
 | --- | --- |
+| [Amber Console](themes/amber-console/) | Monochrome neon discharge on warm-black industrial display surfaces. |
 | [Candy Pop Dark](themes/candy-pop-dark/) | Candy pink and electric cyan on a deep purple background. |
 | [Candy Pop Light](themes/candy-pop-light/) | Saturated rose and cyan on soft pink surfaces. |
 | [Fieldline](themes/fieldline/) | Dark scientific instruments in oxblood, turquoise, lime, violet, amber, copper, and red. |
