@@ -17,6 +17,7 @@ interface, Markdown, syntax highlighting, and diffs.
 | [Fieldline](themes/fieldline/) | Dark scientific instruments in oxblood, turquoise, lime, violet, amber, copper, and red. |
 | [Matchalk](themes/matchalk/) | An unofficial port of Matchalk's dark, earthy palette. |
 | [Poimandres](themes/poimandres/) | An unofficial port of the Poimandres palette. |
+| [Quiet Light](themes/quiet-light/) | Soft gray surfaces, muted purple UI accents, and restrained syntax colors. |
 
 Each theme directory is self-contained and includes installation instructions,
 its palette and showcase assets, license information, and any required
@@ -43,6 +44,10 @@ attribution.
 ### Poimandres
 
 [![Poimandres theme in OpenCode](themes/poimandres/showcase.png)](themes/poimandres/)
+
+### Quiet Light
+
+[![Quiet Light theme in OpenCode](themes/quiet-light/showcase.png)](themes/quiet-light/)
 
 ## Add A Theme
 
