@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Amber Console color palette</title>
+  <desc id="description">The warm-black surfaces and monochrome neon discharge intensities used by the theme.</desc>
+  <rect width="1200" height="360" rx="18" fill="#100600"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="54" fill="#FFA86D" font-size="22" font-weight="700">AMBER CONSOLE PALETTE</text>
+    <text x="42" y="82" fill="#DD5800" font-size="14">one neon gas, many intensities</text>
+
+    <g transform="translate(42 116)">
+      <rect width="126" height="126" rx="10" fill="#1B0C02"/>
+      <text x="0" y="151" fill="#FF6B08" font-size="13">RAISED</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#1B0C02</text>
+    </g>
+    <g transform="translate(184 116)">
+      <rect width="126" height="126" rx="10" fill="#060200" stroke="#5B2500" stroke-width="2"/>
+      <text x="0" y="151" fill="#FF6B08" font-size="13">WELL</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#060200</text>
+    </g>
+    <g transform="translate(326 116)">
+      <rect width="126" height="126" rx="10" fill="#FFA86D"/>
+      <text x="0" y="151" fill="#FFA86D" font-size="13">HOT</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#FFA86D</text>
+    </g>
+    <g transform="translate(468 116)">
+      <rect width="126" height="126" rx="10" fill="#FF6B08"/>
+      <text x="0" y="151" fill="#FF6B08" font-size="13">BRIGHT</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#FF6B08</text>
+    </g>
+    <g transform="translate(610 116)">
+      <rect width="126" height="126" rx="10" fill="#DD5800"/>
+      <text x="0" y="151" fill="#DD5800" font-size="13">DIM</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#DD5800</text>
+    </g>
+    <g transform="translate(752 116)">
+      <rect width="126" height="126" rx="10" fill="#AB4500"/>
+      <text x="0" y="151" fill="#AB4500" font-size="13">FAINT</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#AB4500</text>
+    </g>
+    <g transform="translate(894 116)">
+      <rect width="126" height="126" rx="10" fill="#5B2500"/>
+      <text x="0" y="151" fill="#5B2500" font-size="13">TRACE</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#5B2500</text>
+    </g>
+    <g transform="translate(1036 116)">
+      <rect width="122" height="126" rx="10" fill="#1E0C00"/>
+      <text x="0" y="151" fill="#FF6B08" font-size="13">ON FILL</text>
+      <text x="0" y="172" fill="#DD5800" font-size="12">#1E0C00</text>
+    </g>
+  </g>
+</svg>
